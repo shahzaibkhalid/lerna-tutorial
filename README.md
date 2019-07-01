@@ -1,2 +1,2 @@
-# lerna-tutorial
-Lerna, simplified! 😎
+A tutorial on Lerna 😎
+
